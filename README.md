@@ -26,13 +26,11 @@
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=Apolo151&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
 </p>
 
-<p>
+<!-- <p>
   <img src="https://nirzak-streak-stats.vercel.app/?user=Apolo151&theme=blueberry&hide_border=false" height="180"/>
 </p>
 
 <br>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Apolo151&limit=5&theme=blueberry&combine_all_yearly_contributions=true)
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+![](https://github-contributor-stats.vercel.app/api?username=Apolo151&limit=5&theme=blueberry&combine_all_yearly_contributions=true) -->
