@@ -25,7 +25,7 @@
 <table>
   <tr>
     <td>
-      <img src="https://github-readme-stats.vercel.app/api?username=Apolo151&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
+      <img src="https://github-readme-stats.vercel.app/api?username=apolo151&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
     </td>
     <td>
       <img src="https://nirzak-streak-stats.vercel.app/?user=Apolo151&theme=blueberry&hide_border=false" height="180"/>
