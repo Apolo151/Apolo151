@@ -22,15 +22,18 @@
 ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 
 # 📊 GitHub Stats:
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api?username=Apolo151&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
-</p>
-
-<!-- <p>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=Apolo151&theme=blueberry&hide_border=false" height="180"/>
-</p>
+<table>
+  <tr>
+    <td>
+      <img src="https://github-readme-stats.vercel.app/api?username=Apolo151&theme=blueberry&hide_border=false&include_all_commits=true&count_private=true" height="180"/>
+    </td>
+    <td>
+      <img src="https://nirzak-streak-stats.vercel.app/?user=Apolo151&theme=blueberry&hide_border=false" height="180"/>
+    </td>
+  </tr>
+</table>
 
 <br>
 
-### 🔝 Top Contributed Repo
+<!-- ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=Apolo151&limit=5&theme=blueberry&combine_all_yearly_contributions=true) -->
