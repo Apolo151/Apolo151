@@ -30,6 +30,9 @@
     <td>
       <img src="https://nirzak-streak-stats.vercel.app/?user=apolo151&theme=blueberry&hide_border=false" height="180"/>
     </td>
+    <td>
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=apolo151&theme=blueberry">
+    </td>
   </tr>
 </table>
 
