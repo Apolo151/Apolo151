@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abdallah Ibrahim Ismail</h1>
 <h3 align="center">A diverse-skilled tech enthusiast.</h3>
 
-- 🔭 I’m currently working on **CI & Testing at** [JdeRobot](https://github.com/JdeRobot)
+- 🔭 I’m currently working on **CI & Testing at** [JdeRobot](https://theroboticsclub.github.io/gsoc2025-Abdallah_Ibrahim_Ismail/about-project/)
 - 🌱 I am currently learning about **AI agents**.
 - 💬 Ask me about: **DevOps, Web Development, Computer Vision & Autonomous Robots**
 
