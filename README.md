@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Abdallah Ibrahim Ismail</h1>
 <h3 align="center">Software engineer: backend, DevOps / platform and voice & AI systems</h3>
 
-CS graduate (Ain Shams University, 2026) based in Cairo. I build and run backend services, cloud infrastructure and AI pipelines, and I care about developer experience: CI, tests, observability and docs.
+Based in Cairo. I build and run backend services, cloud infrastructure and AI pipelines, and I care about developer experience: CI, tests, observability and docs.
 
 - 🔭 **Now:** founding engineer at an early-stage startup in stealth, owning backend, infrastructure and AI features end to end.
 - 🧰 **Before:** AI engineering (Egyptian-Arabic voice agents), Nokia network automation & AI, software engineering and DevOps/cloud internships.
 - 🌱 **Learning:** LLM evaluation, voice agents, Kubernetes scheduling.
-- 🎓 **Certified:** Kubernetes and Cloud Native Associate (KCNA), 2026.
+- 🎓 **Certifications:** Kubernetes and Cloud Native Associate (KCNA, 2026); studying for the **CKA**.
 
 ## 🚀 Selected work
 - [**DabljaAR**](https://github.com/DabljaAR/web): AI video dubbing platform (English to Arabic); STT, LLM and TTS pipeline, Docker, Terraform on GCP. Graduation project.
@@ -23,7 +23,7 @@ CS graduate (Ain Shams University, 2026) based in Cairo. I build and run backend
 
 **DevOps & cloud:** ![Linux](https://img.shields.io/badge/linux-%23FCC624.svg?style=flat-square&logo=linux&logoColor=black) ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat-square&logo=docker&logoColor=white) ![Kubernetes](https://img.shields.io/badge/kubernetes-%23326ce5.svg?style=flat-square&logo=kubernetes&logoColor=white) ![Terraform](https://img.shields.io/badge/terraform-%235835CC.svg?style=flat-square&logo=terraform&logoColor=white) ![Ansible](https://img.shields.io/badge/ansible-%23000000.svg?style=flat-square&logo=ansible&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/github%20actions-%232671E5.svg?style=flat-square&logo=githubactions&logoColor=white) ![Prometheus](https://img.shields.io/badge/prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) ![Grafana](https://img.shields.io/badge/grafana-%23F46800.svg?style=flat-square&logo=grafana&logoColor=white) ![AWS](https://img.shields.io/badge/aws-%23FF9900.svg?style=flat-square&logo=amazon-aws&logoColor=white) ![GCP](https://img.shields.io/badge/gcp-%234285F4.svg?style=flat-square&logo=google-cloud&logoColor=white)
 
-**AI & ML:** ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=flat-square&logo=opencv&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat-square&logo=mlflow&logoColor=blue) RAG · LLM evals · STT/TTS
+**AI & ML:** ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=flat-square&logo=PyTorch&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%235C3EE8.svg?style=flat-square&logo=opencv&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=flat-square&logo=scikit-learn&logoColor=white) ![MLflow](https://img.shields.io/badge/mlflow-%23d9ead3.svg?style=flat-square&logo=mlflow&logoColor=blue) ![RAG](https://img.shields.io/badge/RAG-4B5563?style=flat-square) ![LLM evals](https://img.shields.io/badge/LLM%20evals-4B5563?style=flat-square) ![STT/TTS](https://img.shields.io/badge/STT%20%2F%20TTS-4B5563?style=flat-square) ![vLLM](https://img.shields.io/badge/vLLM-4B5563?style=flat-square)
 
 ## 📫 Reach me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abdallah-ismail15) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:abdallah.ibrahim.ismail15@gmail.com)
